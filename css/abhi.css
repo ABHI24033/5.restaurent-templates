@@ -1,0 +1,28 @@
+.why-abhi{
+    /* background-image: url('../asset/stats-bg.jpg'); */
+    width: 100%;
+    height: 35rem;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.why{
+    /* background: #ed4a4a; */
+    background-color: brown;
+    width: 25%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 10px 20px;
+    color: white;
+}
+.answer-container{
+
+}
+.answer-container .ans{
+
+}
